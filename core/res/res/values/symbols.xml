@@ -1767,4 +1767,6 @@
   <java-symbol type="string" name="config_legacyUmsLunFile" />
   <java-symbol type="bool" name="config_smsSamsungCdmaAlternateMessageIDEncoding" />
 
+  <!-- Wifi -->
+  <java-symbol type="bool" name="config_wifiApStartInterface" />
 </resources>
