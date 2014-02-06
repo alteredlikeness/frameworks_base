@@ -1770,4 +1770,8 @@
   <!-- Wifi -->
   <java-symbol type="bool" name="config_wifiApStartInterface" />
   <java-symbol type="bool" name="config_wifiApFirmwareReload" />
+
+  <!-- LED flashlight -->
+  <java-symbol type="bool" name="config_enableTorch" />
+
 </resources>

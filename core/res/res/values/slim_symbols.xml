@@ -53,9 +53,6 @@
   <!-- Config IME switcher -->
   <java-symbol type="bool" name="config_show_IMESwitcher" />
 
-  <!-- WiFi -->
-  <java-symbol type="bool" name="config_wifiApFirmwareReload" />
-
   <!-- In WiFi AP notification -->
   <java-symbol type="string" name="notify_turn_wifi_ap_off_title" />
 
